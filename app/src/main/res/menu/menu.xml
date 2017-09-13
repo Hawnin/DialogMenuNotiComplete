@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/Do"
+        android:orderInCategory="100"
+        android:title="@string/Do"/>
+    <item
+        android:id="@+id/Not"
+        android:orderInCategory="101"
+        android:title="@string/Not"/>
+    <item
+        android:id="@+id/Open"
+        android:orderInCategory="102"
+        android:title="@string/Open"/>
+    <item
+        android:id="@+id/My"
+        android:orderInCategory="103"
+        android:title="@string/My"/>
+    <item
+        android:id="@+id/Notification_and_Close"
+        android:orderInCategory="104"
+        android:title="@string/Notification"/>
+</menu>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DialogMenuNoti</string>
+    <string name="Do">Do</string>
+    <string name="Not">Not</string>
+    <string name="Open">Open</string>
+    <string name="My">My</string>
+    <string name="Notification">Notification_and_Close</string>
+
+</resources>
